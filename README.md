@@ -1,1 +1,1 @@
-# gulpPattern
+Шаблон для сборщика Gulp
